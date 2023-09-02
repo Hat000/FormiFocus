@@ -3,7 +3,7 @@ Welcome to my personal database on formicariums!
 
 ## Introduction
 
-## Sectons
+## Sections
 
 ### Basic
 This folder contains all the basic files needed for ant keeping
